@@ -2,4 +2,4 @@
 
 ## 目录
 
-- 1-vue-components：Vue组件化
+- 1-vue-components：Vue组件化 ✅
